@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+  I'm currently learning  all of the different sites that it seems most Computer Scientists use!
+
+  Please bear with me while I learn my way around. 😄
+
 <!--
 **michaelzipay/michaelzipay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
